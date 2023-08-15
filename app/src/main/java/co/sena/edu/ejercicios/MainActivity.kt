@@ -52,7 +52,7 @@ fun MessageCard(msg:Message) {
     // Add padding around our message
     Row(modifier = Modifier.padding(all = 8.dp)) {
         Image(
-            painter = painterResource(id = R.drawable.cheilaytoby),
+            painter = painterResource(id = R.drawable.kevin),
             contentDescription = "perrito",
             modifier = Modifier
                 // Set image size to 40 dp
